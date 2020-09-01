@@ -2,8 +2,6 @@
 
 * [Writeups](README.md)
 
-## CTFs
-
 ## CTFs <a id="ctfs-1"></a>
 
 * [Fword CTF 2020](ctfs-1/fword-ctf-2020/README.md)
