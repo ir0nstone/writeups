@@ -12,6 +12,7 @@
 * [X-MAS CTF 2020](ctfs-1/x-mas-ctf-2020/README.md)
   * [Pwn](ctfs-1/x-mas-ctf-2020/pwn/README.md)
     * [Do I Know You?](ctfs-1/x-mas-ctf-2020/pwn/do-i-know-you.md)
+    * [Naughty](ctfs-1/x-mas-ctf-2020/pwn/naughty.md)
   * [Web](ctfs-1/x-mas-ctf-2020/web/README.md)
     * [PHP Master](ctfs-1/x-mas-ctf-2020/web/php-master.md)
 
