@@ -2,7 +2,7 @@
 
 * [Writeups](README.md)
 
-## CTFs <a id="ctfs-1"></a>
+## CTFs <a href="#ctfs-1" id="ctfs-1"></a>
 
 * [Fword CTF 2020](ctfs-1/fword-ctf-2020/README.md)
   * [Binary Exploitation](ctfs-1/fword-ctf-2020/binary-exploitation/README.md)
@@ -15,4 +15,6 @@
     * [Naughty](ctfs-1/x-mas-ctf-2020/pwn/naughty.md)
   * [Web](ctfs-1/x-mas-ctf-2020/web/README.md)
     * [PHP Master](ctfs-1/x-mas-ctf-2020/web/php-master.md)
-
+* [HTB CyberSanta 2021](ctfs-1/htb-cybersanta-2021/README.md)
+  * [Crypto](ctfs-1/htb-cybersanta-2021/crypto/README.md)
+    * [Common Mistake](ctfs-1/htb-cybersanta-2021/crypto/common-mistake.md)
