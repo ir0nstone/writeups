@@ -18,3 +18,4 @@
 * [HTB CyberSanta 2021](ctfs-1/htb-cybersanta-2021/README.md)
   * [Crypto](ctfs-1/htb-cybersanta-2021/crypto/README.md)
     * [Common Mistake](ctfs-1/htb-cybersanta-2021/crypto/common-mistake.md)
+    * [Missing Reindeer](ctfs-1/htb-cybersanta-2021/crypto/missing-reindeer.md)
