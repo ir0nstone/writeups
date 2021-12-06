@@ -20,3 +20,4 @@
     * [Common Mistake](ctfs-1/htb-cybersanta-2021/crypto/common-mistake.md)
     * [Missing Reindeer](ctfs-1/htb-cybersanta-2021/crypto/missing-reindeer.md)
     * [Xmas Spirit](ctfs-1/htb-cybersanta-2021/crypto/xmas-spirit.md)
+    * [Meet Me Halfway](ctfs-1/htb-cybersanta-2021/crypto/meet-me-halfway.md)
