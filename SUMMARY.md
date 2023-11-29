@@ -1,6 +1,27 @@
 # Table of contents
 
 * [Writeups](README.md)
+* [picoGym](picogym/README.md)
+  * [Cryptography](picogym/cryptography/README.md)
+    * [Mod 26](picogym/cryptography/mod-26.md)
+    * [Mind Your Ps and Qs](picogym/cryptography/mind-your-ps-and-qs.md)
+    * [Easy Peasy](picogym/cryptography/easy-peasy.md)
+    * [The Numbers](picogym/cryptography/the-numbers.md)
+    * [New Caesar](picogym/cryptography/new-caesar.md)
+    * [Mini RSA](picogym/cryptography/mini-rsa.md)
+    * [Dachshund Attacks](picogym/cryptography/dachshund-attacks.md)
+    * [No Padding, No Problem](picogym/cryptography/no-padding-no-problem.md)
+    * [Easy1](picogym/cryptography/easy1.md)
+    * [13](picogym/cryptography/13.md)
+    * [Caesar](picogym/cryptography/caesar.md)
+    * [Pixelated](picogym/cryptography/pixelated.md)
+    * [Basic-Mod1](picogym/cryptography/basic-mod1.md)
+    * [Basic-Mod2](picogym/cryptography/basic-mod2.md)
+    * [Credstuff](picogym/cryptography/credstuff.md)
+    * [morse-code](picogym/cryptography/morse-code.md)
+    * [rail-fence](picogym/cryptography/rail-fence.md)
+    * [Substitution0](picogym/cryptography/substitution0.md)
+    * [Substitution1](picogym/cryptography/substitution1.md)
 
 ## CTFs <a href="#ctfs-1" id="ctfs-1"></a>
 
