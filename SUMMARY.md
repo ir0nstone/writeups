@@ -22,6 +22,7 @@
     * [rail-fence](picogym/cryptography/rail-fence.md)
     * [Substitution0](picogym/cryptography/substitution0.md)
     * [Substitution1](picogym/cryptography/substitution1.md)
+    * [Substitution2](picogym/cryptography/substitution2.md)
 
 ## CTFs <a href="#ctfs-1" id="ctfs-1"></a>
 
