@@ -25,6 +25,7 @@
     * [Substitution2](picogym/cryptography/substitution2.md)
     * [Transposition-Trial](picogym/cryptography/transposition-trial.md)
     * [Vigenere](picogym/cryptography/vigenere.md)
+    * [HideToSee](picogym/cryptography/hidetosee.md)
 
 ## CTFs <a href="#ctfs-1" id="ctfs-1"></a>
 
